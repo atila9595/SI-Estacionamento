@@ -1,5 +1,0 @@
-package Tipo;
-
-public enum TipoDeUsuario {
-
-}
